@@ -18,21 +18,21 @@
             "name":"Wolf",
             "author":"Metodix",
             "url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Wolf.png",
-            "collections":"Animals",
+            "collections":"Apple",
             "downloadable":"true"
         },
         {
             "name":"Vrtiljak",
             "author":"metodix",
             "url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Vrtiljak.png",
-            "collections":"Nature",
+            "collections":"Samsung",
             "downloadable":"true"
         },
         {
             "name":"SkyScraper",
             "author":"metodix",
             "url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/SkyScraper.png",
-            "collections":"Nature",
+            "collections":"Samsung",
             "downloadable":"false"
         }
     ]
