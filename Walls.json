@@ -1,1 +1,39 @@
-
+{
+    "Collections":[
+        {
+            "name":"Apple",
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Apple.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Apple.png"
+        },
+        {
+            "name":"Samsung",
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Samsung.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Samsung.png"
+        }
+    ],
+    
+	
+	"Wallpapers":[
+        {
+            "name":"iPhone7 Plus",
+            "author":"vumatech",
+            "url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/sedemplus.png",
+            "collections":"Apple",
+            "downloadable":"true"
+        },
+        {
+            "name":"iPhone 7",
+            "author":"vumatech",
+            "url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/sedem.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+        {
+            "name":"iPhone 6",
+            "author":"vumatech",
+            "url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/sest.png",
+            "collections":"Samsung",
+            "downloadable":"false"
+        }
+    ]
+}
