@@ -1,14 +1,14 @@
 {
     "Collections":[
         {
-            "name":"Animals",
-            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Wolf.png",
-            "preview_thumbnail_url":"RAW Link"
+            "name":"Apple",
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/iphone.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/iphone.png"
         },
         {
-            "name":"Nature",
-            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Vrtiljak.png",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Vrtiljak.png"
+            "name":"Samsung",
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/samsung.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/samsung.png"
         }
     ],
     
